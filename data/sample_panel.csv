@@ -1,0 +1,28 @@
+org_id,year,variable_code,variable_description,value,uni_type,profile,federal_district,region,agency
+UNI-001,2019,GRAD_RATE,Share of graduates employed within 6 months,78,leading,technical,Central,Moscow,Ministry of Science
+UNI-001,2020,GRAD_RATE,Share of graduates employed within 6 months,81,leading,technical,Central,Moscow,Ministry of Science
+UNI-001,2021,GRAD_RATE,Share of graduates employed within 6 months,83,leading,technical,Central,Moscow,Ministry of Science
+UNI-002,2019,GRAD_RATE,Share of graduates employed within 6 months,64,industry,social,Volga,Kazan,Ministry of Education
+UNI-002,2020,GRAD_RATE,Share of graduates employed within 6 months,68,industry,social,Volga,Kazan,Ministry of Education
+UNI-002,2021,GRAD_RATE,Share of graduates employed within 6 months,70,industry,social,Volga,Kazan,Ministry of Education
+UNI-003,2019,GRAD_RATE,Share of graduates employed within 6 months,72,flagship,technical,Northwest,St. Petersburg,Ministry of Science
+UNI-003,2020,GRAD_RATE,Share of graduates employed within 6 months,74,flagship,technical,Northwest,St. Petersburg,Ministry of Science
+UNI-003,2021,GRAD_RATE,Share of graduates employed within 6 months,76,flagship,technical,Northwest,St. Petersburg,Ministry of Science
+UNI-001,2019,SCI_OUTPUT,Share of publications in Q1 journals,35,leading,technical,Central,Moscow,Ministry of Science
+UNI-001,2020,SCI_OUTPUT,Share of publications in Q1 journals,37,leading,technical,Central,Moscow,Ministry of Science
+UNI-001,2021,SCI_OUTPUT,Share of publications in Q1 journals,39,leading,technical,Central,Moscow,Ministry of Science
+UNI-002,2019,SCI_OUTPUT,Share of publications in Q1 journals,14,industry,social,Volga,Kazan,Ministry of Education
+UNI-002,2020,SCI_OUTPUT,Share of publications in Q1 journals,15,industry,social,Volga,Kazan,Ministry of Education
+UNI-002,2021,SCI_OUTPUT,Share of publications in Q1 journals,17,industry,social,Volga,Kazan,Ministry of Education
+UNI-003,2019,SCI_OUTPUT,Share of publications in Q1 journals,28,flagship,technical,Northwest,St. Petersburg,Ministry of Science
+UNI-003,2020,SCI_OUTPUT,Share of publications in Q1 journals,29,flagship,technical,Northwest,St. Petersburg,Ministry of Science
+UNI-003,2021,SCI_OUTPUT,Share of publications in Q1 journals,30,flagship,technical,Northwest,St. Petersburg,Ministry of Science
+UNI-001,2019,ENROLLMENT,Number of enrolled students,12000,leading,technical,Central,Moscow,Ministry of Science
+UNI-001,2020,ENROLLMENT,Number of enrolled students,12500,leading,technical,Central,Moscow,Ministry of Science
+UNI-001,2021,ENROLLMENT,Number of enrolled students,13000,leading,technical,Central,Moscow,Ministry of Science
+UNI-002,2019,ENROLLMENT,Number of enrolled students,8000,industry,social,Volga,Kazan,Ministry of Education
+UNI-002,2020,ENROLLMENT,Number of enrolled students,8200,industry,social,Volga,Kazan,Ministry of Education
+UNI-002,2021,ENROLLMENT,Number of enrolled students,8500,industry,social,Volga,Kazan,Ministry of Education
+UNI-003,2019,ENROLLMENT,Number of enrolled students,10000,flagship,technical,Northwest,St. Petersburg,Ministry of Science
+UNI-003,2020,ENROLLMENT,Number of enrolled students,10500,flagship,technical,Northwest,St. Petersburg,Ministry of Science
+UNI-003,2021,ENROLLMENT,Number of enrolled students,11000,flagship,technical,Northwest,St. Petersburg,Ministry of Science
